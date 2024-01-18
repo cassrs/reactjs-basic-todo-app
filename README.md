@@ -1,4 +1,6 @@
 # React Basic Todo App
+## Used Tech
+reactjs, vite, react-bootstrap, styled-components
 ## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
